@@ -1,0 +1,14 @@
+---
+title: "Info Shiny"
+author: "Diego Trujillo"
+date: "October 18, 2018"
+output: html_document
+---
+
+## How to use it.
+
+This Shiny application is part of the Developing Data Products Coursera course project <https://www.coursera.org/learn/data-science-project/>.
+
+The idea is to make a prediction of the next word given a sentence of 3 words at most. This is not a perfect model because it was train just with a subset of the original data. If user has no idea or gives a sentence out of the training dataset, it will recommend some of the sentences that are in the model to give it a try.
+
+Submitted October 18, 2018.
